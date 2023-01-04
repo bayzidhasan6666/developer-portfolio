@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+
+}
+.text-primary{
+    color: rgb(0, 232, 248);
+
+} 
+.btn-primary{
+    color: rgb(250, 250, 250);
+    background-color: rgb(0, 195, 255);
+    border-radius: 5px;
+    border: 0;
+    padding: 10px 15px;
+    font-family:algerian;
+
+
+}
+.header{
+    background: rgb(0, 20, 63);
+    padding-top: 1px;
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+}
+/* hader and navigation styles */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    color: rgb(1, 239, 247);
+    font-family: Algerian;
+
+}
+nav h2{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    padding-bottom: 4px;
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+
+}
+nav li{
+    list-style: none;
+    margin-left: 100px;
+
+}
+/* banner styles */
+.banner{
+   margin:0 200px;
+   display: flex;
+   align-items: center;
+}
+.my-photo{
+    height: 500px;
+    width: 600px;
+}
+.banner-title{
+   color: rgb(0, 217, 255);
+   font-family: Andalus;
+
+}
+.banner-sub-title{
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Andalus;
+    
+
+}
+.banner-description{
+    color:rgb(255, 255, 255) ;
+    font-family: Papyrus;
+    padding-bottom: 10px;
+}
+/* main section */
+main{
+    max-width:1140px;
+    margin: 0 auto;
+}
+/* about section styles */
+.about{
+    margin-top: 130px;
+    background-color: #02122e;
+    border-radius: 10px;
+    padding: 130px 150px;
+    color: rgb(0, 204, 255);
+    text-align: center;
+
+}    
+.section-title{
+    margin-bottom: 30px;
+    
+}   
+.section-description{
+    color: #b9d1c9;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about .info-title{
+    color: #d35b2c;
+}
+.about-info-description{
+    color: rgb(212, 159, 159);
+}
