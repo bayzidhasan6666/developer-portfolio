@@ -79,7 +79,7 @@ nav li{
 
 }
 .banner-description{
-    color:#fdfdfd ;
+    color:#ace7ff ;
     font-family:Georgia Pro Light;
     padding-bottom: 10px;
 }
@@ -112,7 +112,7 @@ main{
     
 }   
 .section-description{
-    color: #00b3fa;
+    color:#ace7ff;
     font-size: 18px;
     margin-bottom: 30px;
 }
@@ -124,7 +124,7 @@ main{
     color: #d35b2c;
 }
 .about .info-description{
-    color: #00b3fa;
+    color:  #15b5ff;
 }
 /* what i do styles */
 .my-skills{
@@ -154,7 +154,7 @@ main{
     margin: 10px 0;
 }
 .skill-description{
-    color: #00b3fa;
+    color: #ace7ff;
 }
 .skill{
     background-color: #001f4d;
@@ -177,12 +177,12 @@ main{
 }
 
 .resume .sub-title{
-    color: #b7c2c7;
+    color: #02afff;
     margin-bottom: 10px;
 
 }
 .resume .description{
-    color:  #00b3fa;
+    color:  #ace7ff;
     margin-right: 400px;
     text-align: justify;
 
