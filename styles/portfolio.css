@@ -12,7 +12,7 @@ body{
 } 
 .btn-primary{
     color: #fdfdfd;
-    background-color: #ff4800;
+    background-color: #00b3fa;
     border-radius: 5px;
     border: 0;
     padding: 10px 15px;
@@ -120,8 +120,8 @@ main{
 .about .info-title{
     color: #d35b2c;
 }
-.about-info-description{
-    color: rgb(212, 159, 159);
+.about .info-description{
+    color: #00b3fa;
 }
 /* what i do styles */
 .my-skills{
@@ -145,6 +145,7 @@ main{
     font-weight: 700;
     font-size: 20px;
     font-family: Georgia Pro Light;
+    margin: 10px 0;
 }
 .skill-description{
     color: #00b3fa;
