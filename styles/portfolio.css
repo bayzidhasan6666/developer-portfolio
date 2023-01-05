@@ -106,6 +106,8 @@ main{
 }    
 .section-title{
     margin-bottom: 30px;
+    color: #d35b2c;
+    margin-bottom: 60px;
     
 }   
 .section-description{
@@ -154,4 +156,49 @@ main{
     background-color: #001f4d;
     border-radius: 10px;
     padding: 30px;
+}
+/* resume styles */
+
+.resume-content{
+    display:flex;
+    color: #00b3fa;
+    margin-left: 60px;
+}
+.resume .title{
+    color: #ff4800;
+    width: 700px;
+    margin-bottom: 10px;
+
+}
+.resume .sub-title{
+    color: #b7c2c7;
+    margin-bottom: 10px;
+
+}
+.resume .description{
+    color:  #00b3fa;
+    margin-right: 400px;
+    text-align: justify;
+
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .section-title{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+
+}
+.resume-button{
+    margin-top: 10px;
+
+    text-align: center;
+}
+.resume{
+    background-color:  #001f4d;
+    border-radius: 10px;
+    padding-top: 1px;
+    margin-top: 30px;
 }
