@@ -21,7 +21,7 @@ body{
 
 }
 .header{
-    background: rgb(0, 31, 71);
+    background: #001f4d;
     padding-top: 1px;
     margin: 0 65px;
     background-image: url(../images/header_bg.png);
@@ -90,7 +90,7 @@ main{
 /* about section styles */
 .about{
     margin-top: 130px;
-    background-color: #031e4b;
+    background-color:#001f4d;
     border-radius: 10px;
     padding: 130px 150px;
     color: #d35b2c;
