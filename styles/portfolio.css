@@ -7,22 +7,23 @@ body{
 
 }
 .text-primary{
-    color: rgb(0, 232, 248);
+    color: #00b3fa;
 
 } 
 .btn-primary{
-    color: rgb(253, 254, 255);
-    background-color: #d35b2c;
+    color: #fdfdfd;
+    background-color: #ff4800;
     border-radius: 5px;
     border: 0;
     padding: 10px 15px;
-    font-family:algerian;
+    font-family:Georgia Pro Light;
 
 
 }
 .header{
     background: rgb(0, 31, 71);
     padding-top: 1px;
+    margin: 0 65px;
     background-image: url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right,left;
@@ -35,15 +36,14 @@ nav{
     display: flex;
     justify-content: space-between;
     margin: 50px 200px;
-    color: rgb(1, 239, 247);
-    font-family: Algerian;
-
+    color: #00b3fa;
+    font-family: Georgia Pro Light;
 }
 nav h2{
-    font-size: 35px;
-    color: rgb(255, 255, 255);
+    font-size: 40px;
+    color:#ff4800;
     padding-bottom: 4px;
-
+    font-family: algerian;
 }
 nav ul{
     display: flex;
@@ -66,20 +66,20 @@ nav li{
     width: 600px;
 }
 .banner-title{
-   color: rgb(0, 217, 255);
+   color: #ff4800;
    font-family: Andalus;
 
 }
 .banner-sub-title{
-    margin-top: 20px;
-    color: rgb(255, 255, 255);
-    font-family: Andalus;
+    margin-top: 10px;
+    color:#00b3fa;
+    font-family:Georgia Pro Light;
     
 
 }
 .banner-description{
-    color:rgb(255, 255, 255) ;
-    font-family: Papyrus;
+    color:#fdfdfd ;
+    font-family:Georgia Pro Light;
     padding-bottom: 10px;
 }
 /* main section */
@@ -93,16 +93,21 @@ main{
     background-color: #031e4b;
     border-radius: 10px;
     padding: 130px 150px;
-    color: rgb(0, 204, 255);
+    color: #d35b2c;
     text-align: center;
 
+}
+.about h3{
+    font-weight: 700;
+    font-family: Georgia Pro Light;
+  
 }    
 .section-title{
     margin-bottom: 30px;
     
 }   
 .section-description{
-    color: #b9d1c9;
+    color: #00b3fa;
     font-size: 18px;
     margin-bottom: 30px;
 }
@@ -122,6 +127,13 @@ main{
     text-align: center;
     color: #d35b2c;
 }
+.my-skills h3{
+    font-family: Georgia Pro Light;
+    background-color: #001f4d;
+    margin: 30px 47%;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
 .skills-container{
     display: flex;
     gap: 24px;
@@ -130,12 +142,13 @@ main{
 .skill-title{
     font-weight: 700;
     font-size: 20px;
+    font-family: Georgia Pro Light;
 }
 .skill-description{
-    color: rgb(0, 179, 250);
+    color: #00b3fa;
 }
 .skill{
-    background-color: rgb(0, 31, 77);
+    background-color: #001f4d;
     border-radius: 10px;
     padding: 30px;
 }
