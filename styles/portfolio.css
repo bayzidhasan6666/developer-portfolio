@@ -169,11 +169,13 @@ main{
     margin-left: 60px;
 }
 .resume .title{
-    color: #ff4800;
     width: 700px;
     margin-bottom: 10px;
+    color: #ff4800;
+
 
 }
+
 .resume .sub-title{
     color: #b7c2c7;
     margin-bottom: 10px;
@@ -224,7 +226,7 @@ main{
 .contact input[type="text"],input[type="email"],textarea{
     margin-bottom: 24px;
     border: 1px solid rgb(19, 110, 179);
-    color: #02afff;
+    color: #bbc4c7;
     background-color:  #031438;
     font-size: 15px;
     width: 100%;
