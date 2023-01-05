@@ -26,10 +26,11 @@ body{
     margin: 0 65px;
     background-image: url(../images/header_bg.png);
     background-repeat: no-repeat;
-    background-position: bottom right,left;
+    background-position: bottom right;
     border-radius: 5px;
 
 }
+
 /* hader and navigation styles */
 
 nav{
@@ -57,13 +58,14 @@ nav li{
 }
 /* banner styles */
 .banner{
-   margin:0 200px;
+   margin:0px 200px;
    display: flex;
    align-items: center;
 }
 .my-photo{
     height: 500px;
-    width: 600px;
+    width: 400px;
+    padding-left:200px;
 }
 .banner-title{
    color: #ff4800;
